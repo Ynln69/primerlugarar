@@ -1,39 +1,39 @@
 {
   "hotels": [
     {
-      "name": "Mercure Warszawa Centrum",
-      "price": "$158.00 por noche",
-      "recenzi": "⭐️⭐️⭐️⭐️⭐️ 123 reseñas",
+      "name": "Hotel Royal Madrid",
+      "price": "$200.00 por noche",
+      "recenzi": "⭐️⭐️⭐️⭐️⭐️ 145 reseñas",
       "image": "../img/hotel-1.jpg"
     },
     {
-      "name": "Hampton by Hilton Warsaw City Centre",
-      "price": "$94.00 por noche",
-      "recenzi": "⭐️⭐️⭐️⭐️⭐️ 168 reseñas",
+      "name": "Gran Hotel Barcelona",
+      "price": "$180.00 por noche",
+      "recenzi": "⭐️⭐️⭐️⭐️⭐️ 210 reseñas",
       "image": "../img/hotel-2.jpg"
     },
     {
-      "name": "Radisson Blu Hotel, Szczecin",
-      "price": "$144.00 por noche",
-      "recenzi": "⭐️⭐️⭐️⭐️⭐️ 252 reseñas",
+      "name": "Radisson Collection Hotel, Sevilla",
+      "price": "$250.00 por noche",
+      "recenzi": "⭐️⭐️⭐️⭐️⭐️ 305 reseñas",
       "image": "../img/hotel-3.jpg"
     },
     {
-      "name": "Apartamentos en Sky Tower - Wrocław",
-      "price": "$127.00 por noche",
-      "recenzi": "⭐️⭐️⭐️⭐️⭐️ 261 reseñas",
+      "name": "Apartamentos de Lujo Valencia",
+      "price": "$175.00 por noche",
+      "recenzi": "⭐️⭐️⭐️⭐️⭐️ 290 reseñas",
       "image": "../img/hotel-4.jpg"
     },
     {
-      "name": "Ibis Poznań Centrum",
-      "price": "$165.00 por noche",
-      "recenzi": "⭐️⭐️⭐️⭐️⭐️ 193 reseñas",
+      "name": "Ibis Styles Granada",
+      "price": "$140.00 por noche",
+      "recenzi": "⭐️⭐️⭐️⭐️⭐️ 185 reseñas",
       "image": "../img/hotel-5.jpg"
     },
     {
-      "name": "H15 Luxury Palace",
-      "price": "$128.00 por noche",
-      "recenzi": "⭐️⭐️⭐️⭐️⭐️ 310 reseñas",
+      "name": "NH Collection Madrid Gran Vía",
+      "price": "$220.00 por noche",
+      "recenzi": "⭐️⭐️⭐️⭐️⭐️ 350 reseñas",
       "image": "../img/hotel-6.jpg"
     }
   ]

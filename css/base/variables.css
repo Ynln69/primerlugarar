@@ -4,10 +4,12 @@
   --third-family: "Kameron", sans-serif;
   --forth-family: "Montserrat", sans-serif;
 
-  --main-color: #000;
-  --accent-color: #d16a8f;
-  --second-color: #fff;
+  --main-color: #2d2d2d; /* Темний сірий для основного кольору */
+  --accent-color: #ff7f50; /* Корал для акцентного кольору */
+  --second-color: #eaeaea; /* Світлий сірий для додаткового кольору */
 
-  --main-bg: #fff;
-  --second-bg-color: #d16a8f;
+  --main-bg: #f9f9f9; /* Дуже світлий відтінок для фону */
+  --second-bg-color: #4b0082; /* Насичений фіолетовий для додаткового фону */
+
+
 }
